@@ -1,0 +1,11 @@
+Email: example1@email.com
+Password: Password123!
+User ID: HM-0577
+First Name: Hasbulla
+lastName: Magomedov
+
+Email: example2@email.com
+Password: Password1!
+User ID: RV-0312
+First Name: Robert
+lastName: Veloya
